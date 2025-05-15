@@ -1,0 +1,32 @@
+AccountSourceUniqueId,CustomerSourceUniqueId,CustomerRole
+Bank-000000007548362,Bank-002076654,Primary Account Holder
+Bank-000000006965207,Bank-003483345,Primary Account Holder
+Bank-000000008955069,Bank-003483345,Joint Account Holder
+Bank-000000003009107,Bank-003483345,Primary Account Holder
+Bank-000000003350093,Bank-003958667,Joint Account Holder
+Bank-000000001256793,Bank-003958667,Primary Account Holder
+Bank-000000004693802,Bank-003958667,Primary Account Holder
+Bank-000000007548362,Bank-003958667,Primary Account Holder
+Bank-000000002501565,Bank-003958667,Benefactor
+Bank-000000004454431,Bank-003958667,Primary Account Holder
+Bank-000000008955069,Bank-004073469,Joint Account Holder
+Bank-000000003350093,Bank-004073469,Primary Account Holder
+Bank-000000006965207,Bank-004782849,Primary Account Holder
+Bank-000000003009107,Bank-004782849,Primary Account Holder
+Bank-000000004454431,Bank-004782849,Benefactor
+Bank-000000002501565,Bank-004968040,Primary Account Holder
+Bank-000000004693802,Bank-004968040,Primary Account Holder
+Bank-000000003350093,Bank-004968040,Authorised Signatory
+Bank-000000008955069,Bank-004968040,Joint Account Holder
+Bank-000000003009107,Bank-004968040,Joint Account Holder
+Bank-000000004718599,Bank-007202781,Authorised Signatory
+Bank-000000003350093,Bank-007202781,Primary Account Holder
+Bank-000000002501565,Bank-007715145,Primary Account Holder
+Bank-000000006965207,Bank-007715145,Joint Account Holder
+Bank-000000008955069,Bank-007715145,Authorised Signatory
+Bank-000000004693802,Bank-007715145,Joint Account Holder
+Bank-000000001256793,Bank-007715145,Benefactor
+Bank-000000003009107,Bank-009355748,Primary Account Holder
+Bank-000000004718599,Bank-009355748,Primary Account Holder
+Bank-000000006965207,Bank-009355748,Trustee
+Bank-000000004454431,Bank-001379377,Primary Account Holder

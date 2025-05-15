@@ -1,0 +1,11 @@
+CustomerSourceUniqueId,FirstName,MiddleNames,LastName,IncorporationDate,DateOfBirth,CountryOfResidence,CountryOfOrigin,GenderCode,EmployeeFlag,Occupation,CustomerTypeCode,SourceOfFunds,ExpectedAnnualTurnover,PepFlagIngested,TaxNumber,Email,PhoneNumber,BusinessClassificationCode
+Bank-001379377,Lucía,Isabel,Sánchez,2000-05-31,1989-03-20,Spain,Spain,Female,No,Unemployed,Personal,idBSdcYlUysxbTB,71481.51,No,tLFPluEzkT,TNyzH@example.com,+34-194-763-432,Not Classified
+Bank-002076654,Martin,Antonio,Alonso,1999-03-16,1990-01-01,Spain,Venezuela,Not specified,No,Housewife,Personal,OVseBjSFXtnLrMp,93846.83,No,TQiTNLAkoc,zPSao@example.com,+34-976-222-715,Not Classified
+Bank-003483345,Alejandro,David,Gómez,1985-02-28,1975-03-06,Spain,Spain,Male,No,Unemployed,Personal,PJiLtrxRgjUmaAQ,190878.78,No,GMoXNlQsdD,WcDAp@test.org,+34-179-329-730,Not Classified
+Bank-003958667,María,Isabel,Alonso,1996-06-24,1974-04-07,Spain,Spain,Female,No,Consultant,Corporate,OGfjRwXmNeoSwhe,155730.94,No,prNlMArXDf,muzYM@demo.net,+34-263-911-577,Not Classified
+Bank-004073469,Emma,Teresa,Álvarez,1992-02-15,1961-08-28,Spain,Spain,Male,No,Unemployed,Corporate,fGTyhdhZvOBmsvK,70603.64,No,dFQWHGfhRV,PFmgZ@demo.net,+34-766-402-526,Not Classified
+Bank-004782849,Pablo,Javier,Martínez,2007-01-05,1993-12-20,Spain,Spain,Not specified,No,Unemployed,Personal,sbULLrtkYVSplBm,191397.15,No,wPwmjoXuQZ,UqasW@demo.net,+34-899-873-408,Not Classified
+Bank-004968040,Hugo,Ana,Álvarez,1980-12-20,1962-06-14,Spain,Spain,Female,No,Unemployed,Corporate,dqGPgxWAwjkdtkR,172959.89,No,ACRsvbqxvb,VjQjo@demo.net,+34-680-432-193,Not Classified
+Bank-007202781,Paula,María,Díaz,1989-08-06,1994-04-06,Spain,Spain,Not specified,No,Unemployed,Corporate,HqnLiiIzmNEnyhK,126009.15,No,uRYDSkXxZZ,qdOsc@test.org,+34-924-911-368,Not Classified
+Bank-007715145,Manuel,Laura,Díaz,1980-02-13,1974-09-23,Spain,Morocco,Male,No,Cashier,Personal,tgsEQMopPInhsMd,182816.48,No,ilUlOmrMic,zbDCg@test.org,+34-145-388-496,Not Classified
+Bank-009355748,Hugo,Laura,Pérez,1992-01-05,1951-10-06,Spain,Spain,Female,No,Retired,Corporate,HGSPjYgySXaOhBv,147074.17,No,UxApiEIQjI,pQEAg@demo.net,+34-295-302-874,Not Classified
